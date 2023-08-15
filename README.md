@@ -1,6 +1,6 @@
 # [:] Example Node Project
 
-An example node project to demonstrate [srcclr](https://www.srsscclr.com) scans.....,ssdsdsdsssssssswsd.s
+An example node project to demonstrate [srcclr](https://www.srsscclr.com) scans.....,ssdsdsdsssssssswsd.ss
 sssds
 ## Try me!s
 
